@@ -59,3 +59,5 @@ The detection of lung cancer stands as a critical global health priority, emphas
 2.	Explore ensemble learning approaches by combining multiple models for enhanced accuracy.
 3.	Consider incorporating explainability methods like SHAP values for transparency and trust.
 
+![Testing Results](https://github.com/abhikrm0102/Lung-Nodules-Detection-and-Classification-using-UNet-DenseNet/assets/153391038/4fb45f12-7f7d-479e-8f96-cd2c0b1c7c58)
+
